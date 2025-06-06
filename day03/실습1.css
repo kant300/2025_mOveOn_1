@@ -1,0 +1,22 @@
+.title{
+    font-family: "궁서";
+    font-size: 50px;
+    font-style: italic;
+}
+.content{
+    font-family: "굴림";
+    color: blue;
+    word-spacing: 10px; /*어간*/
+    letter-spacing: 10px; /*자간*/
+    line-height: 150%;/*줄간격*/
+    font-weight: bold;
+}
+.writer{
+    text-align: center;
+    text-decoration: underline overline line-through;
+    color: red;
+    text-shadow: 1px 1px 5px grey ;
+}
+.l{ font-size: 30px;}
+.m{ font-size: 20px;}
+.s{ font-size: 10px;}
