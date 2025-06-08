@@ -1,14 +1,26 @@
 /*====== 공통 css ======*/
 *{
+   text-decoration: none;
+  
     
 }
 /*===== 로그인 css =====*/
-#login{
-     font-family: "맑은 고딕";
+.login_top{
+   font-family: "맑은 고딕";
+   display: flex;
+   justify-content: space-between;
+   width: 1200px;
+   border-bottom: 2px solid black;
+   align-items: last baseline;
+   margin: auto;
 }
-.login_btitle{
-   
+.login_stitle .홈{
+    color: grey;
 }
-.login_stitle span{
-    
+.login_main{
+   text-align: center;
+
+}
+.flexbox1{
+   display: flex;
 }
