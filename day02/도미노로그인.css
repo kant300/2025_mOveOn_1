@@ -6,7 +6,6 @@
 }
 /*===== 로그인 css =====*/
 .login_top{
-   font-family: "맑은 고딕";
    display: flex;
    justify-content: space-between;
    width: 1200px;
