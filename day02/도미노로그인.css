@@ -1,11 +1,12 @@
 /*====== 공통 css ======*/
 *{
    text-decoration: none;
+   text-align: center;
   
     
 }
 /*===== 로그인 css =====*/
-.login_top{
+#login_title{
    display: flex;
    justify-content: space-between;
    width: 1200px;
@@ -13,11 +14,15 @@
    align-items: last baseline;
    margin: auto;
 }
-.login_stitle .홈{
-    color: grey;
-}
+.로그인{font-size: 33px;}
+.홈_로그인 span{ color: grey;}
+
 .login_main{
    text-align: center;
+
+}
+.login_box{
+   display: flex;
 
 }
 .flexbox1{
